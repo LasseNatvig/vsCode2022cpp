@@ -1,6 +1,6 @@
  // Example program GUI_1, main.cpp, simple GUI elements  - commented
 
-#include <Windows.h> // Only under windows-PC
+// #include <Windows.h> // Only under windows-PC
 
 #include "GUI.h"
 #include "Graph.h"
